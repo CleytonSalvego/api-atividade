@@ -1,0 +1,102 @@
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\appsettings.json
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\api.exe
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\api.deps.json
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\api.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\ref\api.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\api.pdb
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Humanizer.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\NJsonSchema.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\SecureIdentity.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\plataforma_aspnet\api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.dll
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\ref\api.dll
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.pdb
+C:\Projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\projetos\plataforma_aspnet\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\appsettings.json
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\api.exe
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\api.deps.json
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\api.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\api.pdb
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Humanizer.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\MySqlConnector.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\NJsonSchema.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\SecureIdentity.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.dll
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\ref\api.dll
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.pdb
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Projetos\10 - ASP.NET\api_atividade\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Projetos\10 - ASP.NET\api_atividade\bin\Debug\net6.0\ref\api.dll

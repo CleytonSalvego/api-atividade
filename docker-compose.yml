@@ -1,0 +1,103 @@
+version: '3'
+
+networks:
+  proxy:
+     driver: bridge
+
+services:
+
+  nginx:
+    image: 'nginx'
+    container_name: nginx
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    restart: always
+    ports:
+      - '80:80'
+    networks:
+      - proxy
+
+  plataforma:
+    build: .
+    container_name: plataforma
+    restart: always
+    networks:
+      - proxy
+     
+
+
+
+#version: '3'
+#services:
+#  app:
+#    image: 'jc21/nginx-proxy-manager:latest'
+#    ports:
+#      - '80:80'
+#      - '81:81'
+#      - '443:443'
+#    environment:
+#      DB_MYSQL_HOST: "db"
+#      DB_MYSQL_PORT: 3306
+#      DB_MYSQL_USER: "npm"
+#      DB_MYSQL_PASSWORD: "npm"
+#      DB_MYSQL_NAME: "npm"
+#    volumes:
+#      - ./data:/data
+#      - ./letsencrypt:/etc/letsencrypt
+
+
+#version: "3.7"
+
+#services:
+#  api:
+#    build: .
+#    ports:
+#      - 3000:7171
+#    working_dir: /api
+#    volumes:
+#      - ./:/app
+#    environment:
+#      MYSQL_HOST: mysql
+#      MYSQL_USER: root
+#      MYSQL_PASSWORD: secret
+#      MYSQL_DB: todos
+
+#  mysql:
+#    image: mysql:5.7
+#    volumes:
+#      - database:/var/lib/mysql
+#    environment: 
+#      MYSQL_ROOT_PASSWORD: secret
+#      MYSQL_DATABASE: todos
+
+#volumes:
+#  database:
+
+
+
+#  version: '3.3'
+
+#networks:
+#        patterns-network:
+#                driver: 'bridge'
+
+#services:
+#        patterns-webapi:
+#                image: patterns-webapi
+#                container_name: patterns-webapi 
+#                build:
+#                        context: /home/kenerry/workspace/Nginx/
+#                        dockerfile: Patterns.WebAPI/Dockerfile
+#                depends_on: 
+#                       - reverse-proxy
+#                networks:
+#                        - patterns-network
+
+#        reverse-proxy:
+#                image: reverse-proxy
+#                container_name: reverse-proxy
+#                build:
+#                        context: /home/kenerry/workspace/Nginx/
+#                        dockerfile: Patterns.WebAPI/Nginx/Dockerfile
+#                networks:
+#                        - patterns-network
